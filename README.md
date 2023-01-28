@@ -8,9 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-juliane&layout=compact&hide_border=true&title_color=A9A9A9&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eng-juliane&bg_color=0d1117&color=8e8f90&line=bebbbb&point=868788&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+<br><br>
 <div align="center"> 
 <a href="https://www.instagram.com/nscmnt_ju/" target ="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:30px"target="_blank"></a> 
 <a href="https://www.facebook.com/julianenascimento27" target ="_blank"><img src ="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="border-radius:30px" target="_blank"></a> 
